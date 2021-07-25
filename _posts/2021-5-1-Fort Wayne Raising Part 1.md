@@ -1,4 +1,7 @@
 ---
+---
+layout: post
+title: 'Estes Park Marathon—the 4:14 that felt like a BQ'
 published: true
 ---
 
