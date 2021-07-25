@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I study Linguistics, or the way that people speak and perceive language. I’m particularly interested in American dialects, which is when most people perk up and give me examples of dialectal features that they know about, like how people say, “water fountain” versus “bubbler” or “pop,” “soda,” or “coke” regionally—and this is exactly what I do! I study sounds rather than differences in entire words, and focus on something that my coauthors and I have called “American raising,” as a nod to a much more famous process called Canadian raising. Canadian raising is actually pretty salient and what we imitate when we say things like “about” and “house” in a “Canadian” accent. You can probably hear that something is going on with the vowels in those words, and that something is perceptual raising. The same type of raising happens in words like “write” and “bite,” in Canada and also in a variety of different US dialects from the upper Midwest, to Philadelphia, to Kansas City, and now to northeast Indiana. 
