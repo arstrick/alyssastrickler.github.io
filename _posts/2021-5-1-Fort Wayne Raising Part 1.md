@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fort Wayne Raising Part 1'
+title: 'Fort Wayne Raising (Part 1)'
 published: true
 ---
 
